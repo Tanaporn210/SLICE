@@ -1,0 +1,19 @@
+{
+  "name": "solaris-smart-solar-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.3.0"
+  },
+  "dependencies": {
+    "chart.js": "^4.5.1",
+    "lucide": "^1.58.0"
+  },
+  "description": "SOLARIS AI - Real-time Solar Energy & Smart Grid Management Dashboard"
+}
